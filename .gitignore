@@ -1,2 +1,5 @@
 exemp.txt
 my.html
+*.txt
+node_modules/
+exemp/*.ts
